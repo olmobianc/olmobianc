@@ -1,4 +1,6 @@
-### Hi there 👋, I am Olmo Biancardi!
+<div align="center">
+  ### Hi there 👋, I am Olmo Biancardi!
+</div>  
 
 
 
