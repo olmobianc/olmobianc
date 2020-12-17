@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a Front-End Developer with a passion for astronomy!
+  I'm a Front-End Developer with a strong passion for astronomy!
 </h3>
 
 <br />
