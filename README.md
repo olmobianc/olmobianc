@@ -1,6 +1,11 @@
-<div align="center">
-  ### Hi there 👋, I am Olmo Biancardi!
-</div>  
+<h1 align="center">
+<br>
+  Hi there 👋, I'm Olmo Biancardi!
+ <br>
+</h1>
+<h3 align="center">
+  I'm a Front-End Developer with a passion for astronomy!
+</h3>
 
 
 
