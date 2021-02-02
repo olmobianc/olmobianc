@@ -8,7 +8,7 @@
 
 <br />
 
-- 🚀 I’m currently working on some React space projects
+- 🚀 I’m currently working on a React eCommerce project
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have a tree's name
